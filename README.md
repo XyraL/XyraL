@@ -15,9 +15,6 @@
 
 <!-- Websites & Socials End -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <div align="center">
 
 </div>
@@ -29,6 +26,8 @@
 |----|----|----|
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
 
