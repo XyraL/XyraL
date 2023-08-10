@@ -24,7 +24,7 @@
 
 |<div align="center">To-Do</div>|<div align="center">In Progress</div>|<div align="center">Proficient</div>|
 |----|----|----|
-|<div align="center">![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,graphql,redux,jenkins&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vscode,git,github,docker&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=spring,markdown&theme=dark&perline=4)</div>|
+|<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 
 <!-- OLd Code Start -->
