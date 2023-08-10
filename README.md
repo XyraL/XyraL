@@ -1,7 +1,7 @@
 <!-- Title SVG Start -->
 <div align="center">
 
-<a href="https://github.com/liamfrazer/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=5000&color=0D7EBF&center=true&vCenter=true&width=900&lines=Liam+Frazer;Senior+AI+Conversation+Analyst;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
+<a href="https://github.com/XyraL/"><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=5000&color=0D7EBF&center=true&vCenter=true&width=900&lines=Alexander+(XyraL);JR+Software+Developer;%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80;Future+Software+Engineer"></a>
 
 </div>
 <!-- Title SVG End -->
@@ -17,32 +17,6 @@
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20Since%2020th%20March%202022-200%20hrs%2015%20mins-blue)
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-JavaScript               43 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.26% 
-Lua                      37 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.23% 
-Markdown                 4 hrs 8 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.15% 
-Other                    3 hrs 49 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.84% 
-YAML                     2 hrs 48 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.8%
-
-🔥 Editors: 
-VS Code                  99 hrs 53 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
-
-💻 Operating System: 
-Windows                  96 hrs 20 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.46% 
-Linux                    3 hrs 4 mins        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.08% 
-Mac                      27 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.46%
-
-```
-
-
- Last Updated on 10/08/2023 15:08:04 UTC
-<!--END_SECTION:waka-->
 </div>
 
 <div align="center">
@@ -86,53 +60,22 @@ Mac                      27 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- Links List Start -->
 
 [vscode]: https://code.visualstudio.com/
-[top]: https://theodinproject.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [node.js]: https://nodejs.org/
-[react]: https://reactjs.org/
 [html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5/
-[css3]: https://developer.mozilla.org/en-US/docs/Glossary/CSS/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
-[solidity]: https://docs.soliditylang.org/
-[lhtl]: https://www.coursera.org/learn/learning-how-to-learn/
-[ibmwatson]: https://www.ibm.com/uk-en/watson/
-[liveperson]: https://www.liveperson.com/
-[jira]: https://www.atlassian.com/software/jira/
-[next.js]: https://nextjs.org/
-[json]: https://www.json.org/json-en.html/
-[servicenow]: https://servicenow.com/
 [cjs]: https://www.udemy.com/course/the-complete-javascript-course/
-[cdi]: https://www.conversationdesigninstitute.com/courses.html/
-[mta]: https://support.microsoft.com/en-us/topic/earn-a-microsoft-technology-associate-mta-certification-357215d0-31ce-0620-feba-1bb60165b770/
 [python]: https://www.python.org/
-[cs50x]: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/
-[cs50w]: https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript?index=product&queryID=5c44c1c1d4f5a81bb7d4170208bb07b1&position=1/
-[cs50g]: https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)/
-[notion]: https://liamfrazer.notion.site/Software-Engineer-Journey-0c3796b414184465aa1aa8fda6ea32a1/
-[nftweb]: https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional/
-[soliditycourse]: https://www.udemy.com/course/solidity-ethereum-in-react-next-js-the-complete-guide/
-[selftaught]: https://www.udemy.com/course/self-taught-programmer/
-[automateboring]: https://www.udemy.com/course/automate/
-[obsidian]: https://github.com/liamfrazer/Obsidian-Notes
-[fso2022]: https://fullstackopen.com/en/
 [markdown]: https://daringfireball.net/projects/markdown/
-[spel]: https://docs.spring.io/spring-framework/docs/4.3.12.RELEASE/spring-framework-reference/html/expressions.html
-[todoist]: https://todoist.com/
 [c++]: https://cplusplus.com
-[unrealcourse]: https://www.udemy.com/course/unrealcourse/
-[unrealengine]: https://www.unrealengine.com/en-US/unreal-engine-5
 [unity]: https://unity.com
 [lua]: https://www.lua.org
 [scratch]: https://scratch.mit.edu
 [sql]: https://en.wikipedia.org/wiki/SQL
-[flask]: https://flask.palletsprojects.com
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [visualstudio]: https://visualstudio.microsoft.com
-[anki]: https://apps.ankiweb.net
 [beginningc++]: https://www.udemy.com/course/beginning-c-plus-plus-programming/
-[gamedev.tv]: https://www.gamedev.tv/courses/enrolled/1638644
-[ztmbackend]: https://zerotomastery.io/career-paths/become-a-backend-developer/
 
 <!-- Links List End -->
