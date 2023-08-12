@@ -27,6 +27,75 @@
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 72.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 8 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3 commits           ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌆 Daytime                8 commits           ██████████████████░░░░░░░   72.73 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 11 commits          █████████████████████████   100.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Other                    15 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  15 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          15 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  15 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Lua** 
+
+```text
+Lua                      1 repo              █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/08/2023 14:23:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
