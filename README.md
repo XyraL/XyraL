@@ -27,7 +27,7 @@
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
@@ -70,17 +70,19 @@ Sunday                   1 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    29 mins             ██████████████░░░░░░░░░░░   57.07 % 
-INI                      22 mins             ███████████░░░░░░░░░░░░░░   42.93 % 
+Other                    35 mins             ███████████████░░░░░░░░░░   60.77 % 
+INI                      22 mins             █████████░░░░░░░░░░░░░░░░   37.96 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DHRP                     52 mins             █████████████████████████   100.00 % 
+DHRP                     57 mins             █████████████████████████   98.07 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -96,7 +98,7 @@ Lua                      2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2023 18:32:13 UTC
+ Last Updated on 16/08/2023 18:31:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
