@@ -27,9 +27,9 @@
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,22 +70,22 @@ Sunday                   1 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-XML                      1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.18 % 
-Lua                      46 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-INI                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+XML                      1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   41.89 % 
+Lua                      46 mins             ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+INI                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-/ — (Remote)             1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   41.57 % 
-Unknown Project          51 mins             ████████░░░░░░░░░░░░░░░░░   32.25 % 
-DHRP                     41 mins             ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+/ — (Remote)             1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   41.97 % 
+Unknown Project          51 mins             ████████░░░░░░░░░░░░░░░░░   32.03 % 
+DHRP                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -101,7 +101,7 @@ Lua                      3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2023 18:31:49 UTC
+ Last Updated on 19/08/2023 18:31:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
