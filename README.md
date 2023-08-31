@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,7 +96,7 @@ Lua                      3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2023 18:32:01 UTC
+ Last Updated on 31/08/2023 18:32:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
