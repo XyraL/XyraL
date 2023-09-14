@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,17 +70,17 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Lua                      5 mins              ██████████████████░░░░░░░   70.94 % 
-Markdown                 2 mins              ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+Lua                      41 mins             ████████████████████████░   95.21 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-/ — $(Remote)            7 mins              █████████████████████████   100.00 % 
+/ — $(Remote)            43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -96,7 +96,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2023 18:32:43 UTC
+ Last Updated on 14/09/2023 18:31:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
