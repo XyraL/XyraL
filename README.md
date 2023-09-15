@@ -27,7 +27,7 @@
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -70,17 +70,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Lua                      41 mins             ████████████████████████░   95.21 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Lua                      41 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-/ — $(Remote)            43 mins             █████████████████████████   100.00 % 
+/ — $(Remote)            41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -96,7 +95,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2023 18:31:50 UTC
+ Last Updated on 15/09/2023 18:31:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
