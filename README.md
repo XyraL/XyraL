@@ -70,7 +70,8 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Lua                      2 mins              █████████████████████████   100.00 % 
+Lua                      2 mins              █████████████████████░░░░   85.72 % 
+XML                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 
 🔥 Editors: 
 VS Code                  2 mins              █████████████████████████   100.00 % 
@@ -95,7 +96,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2023 18:34:06 UTC
+ Last Updated on 12/10/2023 18:33:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
