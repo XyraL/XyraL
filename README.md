@@ -27,6 +27,8 @@
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -41,6 +43,45 @@
  > 
 > 🔑 5 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                10 commits          ██████████████░░░░░░░░░░░   55.56 % 
+🌃 Evening                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌙 Night                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 15 commits          █████████████████████░░░░   83.33 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Lua** 
 
 ```text
@@ -54,7 +95,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 18:33:38 UTC
+ Last Updated on 07/12/2023 18:33:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
