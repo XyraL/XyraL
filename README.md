@@ -70,16 +70,19 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    53 mins             █████████████░░░░░░░░░░░░   50.90 % 
+INI                      33 mins             ████████░░░░░░░░░░░░░░░░░   31.46 % 
+XML                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Lua                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+/ — $(Remote)            1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -95,7 +98,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2023 18:31:47 UTC
+ Last Updated on 22/12/2023 18:31:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
