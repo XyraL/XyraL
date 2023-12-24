@@ -27,7 +27,7 @@
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,20 +70,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 35 mins        ████████████░░░░░░░░░░░░░   48.89 % 
-INI                      42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Lua                      41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Other                    2 hrs 1 min         ██████████████░░░░░░░░░░░   54.19 % 
+Lua                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+INI                      42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-/ — $(Remote)            3 hrs 15 mins       █████████████████████████   100.00 % 
+/ — $(Remote)            3 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -99,7 +99,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2023 18:31:25 UTC
+ Last Updated on 24/12/2023 18:31:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
