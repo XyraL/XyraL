@@ -27,7 +27,7 @@
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -70,20 +70,17 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 59 mins        ███████████████░░░░░░░░░░   59.34 % 
-Lua                      1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   35.32 % 
-INI                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    1 hr 18 mins        █████████████████░░░░░░░░   69.54 % 
+Lua                      34 mins             ████████░░░░░░░░░░░░░░░░░   30.46 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-/ — $(Remote)            3 hrs 21 mins       █████████████████████████   100.00 % 
+/ — $(Remote)            1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -99,7 +96,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 18:31:31 UTC
+ Last Updated on 30/12/2023 18:31:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
