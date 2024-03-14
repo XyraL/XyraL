@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 182.6 kB Used in GitHub's Storage 
+> 📦 182.7 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -95,7 +95,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2024 18:31:40 UTC
+ Last Updated on 14/03/2024 18:31:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
