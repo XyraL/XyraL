@@ -27,6 +27,8 @@
 |<div align="center">![My Skills](https://skillicons.dev/icons?i=docker,react&theme=dark&perline=3)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python&theme=dark&perline=4)</div>|<div align="center">![My Skills](https://skillicons.dev/icons?i=vscode,lua&theme=dark&perline=4)</div>|
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2031%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -91,7 +93,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2024 18:31:20 UTC
+ Last Updated on 12/04/2024 18:31:41 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
