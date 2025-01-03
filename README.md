@@ -35,8 +35,6 @@
 
 > 📦 182.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -95,7 +93,7 @@ Lua                      4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/XyraL/XyraL/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2025 18:40:27 UTC
+ Last Updated on 03/01/2025 18:40:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- OLd Code Start -->
