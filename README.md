@@ -10,11 +10,8 @@ Focused on delivering optimized, modular, and creative gameplay experiences for 
 ## 🚓 Highlighted Projects
 Here are some of my FiveM resources (with more coming soon!):
 
-- **[SnapDuty](https://github.com/XyraL/SnapDuty)**  
+- **[SnapDuty] (UPDATED) (https://github.com/XyraL/SnapDuty)**  
   A lightweight duty/blip tracking system for PD/EMS/FIB with AFK tracking, role permissions, and real-time map visibility.
-
-- **[GS-Logistics](https://github.com/XyraL/GS-Logistics)** _(soon)_  
-  Parcel + freight trucking job with contracts, stats, terminals, and progression.
 
 - **[GS-Electrician](https://github.com/XyraL/GS-Electrician)** _(soon)_  
   Civilian trade job with multi-step tasks, minigames, and tablet UI for interactive RP.
@@ -51,8 +48,7 @@ Here are some of my FiveM resources (with more coming soon!):
 ---
 
 ## 📬 Let’s Connect
-- Discord: **GooberScripts**  
-- Twitter/X: [@GooberScripts](https://x.com/GooberScripts)  
+- Discord: **XyraL**  
 - GitHub: [XyraL](https://github.com/XyraL)
 
 ---
