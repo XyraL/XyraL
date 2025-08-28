@@ -1,40 +1,56 @@
-# 👋 Hey there, I'm Alex(XyraL)
+# 👋 Hey, I’m Alex (XyraL)
 
-💻 IT Specialist | Game Developer | Cyber Security Student  
-🎮 Focused on building immersive, performance-optimized gameplay systems   
+**FiveM Developer | QBCore Specialist | Cyber Security Student**
 
----
-
-## 🔧 Tech Stack
-
-- **Languages:** Lua, SQL, Python (beginner), HTML/CSS  
-- **Tools:** Roblox Studio, FiveM, Visual Studio Code, Git  
-- **Skills:** Server Optimization, Bug Fixing, Vehicle Handling Configuration, Database Management
+I build immersive scripts, systems, and tools for **FiveM roleplay servers**.  
+Focused on delivering optimized, modular, and creative gameplay experiences for both civilians and law enforcement.
 
 ---
 
-## 🚀 Featured Projects
+## 🚓 Highlighted Projects
+Here are some of my FiveM resources (with more coming soon!):
 
-### 🎮 [RNG Mine Simulator (Roblox)](https://www.roblox.com/games/95998463690143/RNG-Mine-Simulator-BETA)
-> A mining simulator featuring RNG-based pickaxe rolls, layered block zones, enchantments, and prestige-based progression.
+- **[SnapDuty](https://github.com/XyraL/SnapDuty)**  
+  A lightweight duty/blip tracking system for PD/EMS/FIB with AFK tracking, role permissions, and real-time map visibility.
 
-### 🔧 FiveM Development Projects
-> Custom FiveM scripting and server configuration focused on high-performance roleplay environments.
-- Configured realistic vehicle handling and balancing  
-- Built and maintained modular server systems  
-- Troubleshot and resolved bugs and script errors  
-- Managed plugin integrations and optimized gameplay performance
+- **[GS-Electrician](https://github.com/XyraL/GS-Electrician)** _(soon)_  
+  Civilian trade job with multi-step tasks, minigames, and tablet UI for interactive RP.
+
+- *(More resources coming as I upload them here!)*
 
 ---
 
-## 🧪 Currently Working On
+## 🛠️ Tech & Tools
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🎯 Expanding progression and UI in RNG Mine Simulator  
-- 🧰 Developing modular tools for scalable FiveM servers  
-- 🔐 Studying for CompTIA A+, Network+, and Security+ certifications
+![FiveM](https://img.shields.io/badge/FiveM-FF5700?style=for-the-badge&logo=rockstar-games&logoColor=white)
+![QBCore](https://img.shields.io/badge/QBCore-1E1E1E?style=for-the-badge&logo=lua&logoColor=blue)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
+![XyraL's GitHub stats](https://github-readme-stats.vercel.app/api?username=XyraL&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XyraL&layout=compact&theme=tokyonight)
 
-![XyraL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XyraL&show_icons=true&theme=radical)
+---
+
+## 🎯 Currently Working On
+- Expanding **GS-Logistics** into player-owned businesses with leaderboards.  
+- Refining **GS-Electrician** with multi-step repair minigames.  
+- Building modular **law enforcement tools** (SnapDuty expansions, MDT integrations).  
+- Studying for **CompTIA A+, Network+, Security+** certifications.
+
+---
+
+## 📬 Let’s Connect
+- Discord: **XyraL**  
+- GitHub: [XyraL](https://github.com/XyraL)
+
+---
+
+_“Crafting immersive scripts and leveling up in cybersecurity.”_
