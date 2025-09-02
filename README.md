@@ -40,17 +40,17 @@ Here are some of my FiveM resources (with more coming soon!):
 ---
 
 ## 🎯 Currently Working On
-- Expanding **GS-Logistics** into player-owned businesses with leaderboards.  
+- Developing **GS-BlackMarket** with rotating tablet shop, Drop off points, PD Alerts and more.  
 - Refining **GS-Electrician** with multi-step repair minigames.  
-- Building modular **law enforcement tools** (SnapDuty expansions, MDT integrations).  
-- Studying for **CompTIA A+, Network+, Security+** certifications.
+- Developing **LEO tools** (SnapDuty expansions, MDT integrations).  
+- Studying for **Network+, Security+** certifications.
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Socials
 - Discord: **XyraL**  
 - GitHub: [XyraL](https://github.com/XyraL)
 
 ---
 
-_“Crafting immersive scripts and leveling up in cybersecurity.”_
+_“Developing immersive scripts and studying in cybersecurity.”_
