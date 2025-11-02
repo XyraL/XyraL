@@ -2,8 +2,8 @@
 
 **FiveM Developer | QBCore Specialist | Cyber Security Student**
 
-I build immersive scripts, systems, and tools for **FiveM roleplay servers**.  
-Focused on delivering optimized, modular, and creative gameplay experiences for both civilians and law enforcement.
+I develop scripts, systems, and tools for **FiveM roleplay servers**.  
+Focused on delivering unique, modern and creative scripts for both civilians and law enforcement.
 
 ---
 
