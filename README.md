@@ -1,8 +1,8 @@
 # 👋 Hey, I’m Alex (XyraL)
 
-**FiveM Developer | QBCore Specialist | Cyber Security Student**
+**FiveM Developer | Cyber Security Student**
 
-I develop scripts, systems, and tools for **FiveM roleplay servers**.  
+I develop scripts for **FiveM roleplay servers**.  
 Focused on delivering unique, modern and creative scripts for both civilians and law enforcement.
 
 ---
@@ -41,7 +41,7 @@ Here are some of my FiveM resources (with more coming soon!):
 
 ## 🎯 Currently Working On
 - Developing **GS-BlackMarket** with rotating tablet shop, Drop off points, PD Alerts and more.  
-- Refining **GS-Electrician** with multi-step repair minigames.  
+- Developing **GS-Electrician** with multi-step repair minigames.  
 - Developing **LEO tools** (SnapDuty expansions, MDT integrations).  
 - Studying for **Network+, Security+** certifications.
 
@@ -53,4 +53,4 @@ Here are some of my FiveM resources (with more coming soon!):
 
 ---
 
-_“Developing immersive scripts and studying in cybersecurity.”_
+_“Developing modern advanced scripts and studying in cybersecurity.”_
