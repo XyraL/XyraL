@@ -48,7 +48,7 @@ Here are some of my FiveM resources (with more coming soon!):
 ---
 
 ## 📬 Socials
-- Discord: **XyraL**  
+- Discord: [**XyraL**  ](https://discord.gg/tgqAkBU3zr)
 - GitHub: [XyraL](https://github.com/XyraL)
 
 ---
