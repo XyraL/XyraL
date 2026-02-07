@@ -40,8 +40,8 @@ Here are some of my FiveM resources (with more coming soon!):
 ---
 
 ## 🎯 Currently Working On
-- Developing **GS-BlackMarket** with rotating tablet shop, Drop off points, PD Alerts and more.  
-- Developing **GS-Electrician** with multi-step repair minigames.  
+- Developing **GS-AdminMenu**
+- Developing **GS-Billing**
 - Developing **LEO tools** (SnapDuty expansions, MDT integrations).  
 - Studying for **Network+, Security+** certifications.
 
