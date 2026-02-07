@@ -13,8 +13,8 @@ Here are some of my FiveM resources (with more coming soon!):
 - **[SnapDuty] (UPDATED) (https://github.com/XyraL/SnapDuty)**  
   A lightweight duty/blip tracking system for PD/EMS/FIB with AFK tracking, role permissions, and real-time map visibility.
 
-- **[GS-Electrician](https://github.com/XyraL/GS-Electrician)** _(soon)_  
-  Civilian trade job with multi-step tasks, minigames, and tablet UI for interactive RP.
+- **[GS-Billing](https://github.com/XyraL/GS-Billing)** _(soon)_  
+  Advanced billing system for businesses and LEOs. (Customizale preset bills created by managers/owners of job)
 
 - *(More resources coming as I upload them here!)*
 
