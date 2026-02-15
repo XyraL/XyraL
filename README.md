@@ -13,8 +13,8 @@ Here are some of my FiveM resources (with more coming soon!):
 - **[SnapDuty] (UPDATED) (https://github.com/XyraL/SnapDuty)**  
   A lightweight duty/blip tracking system for PD/EMS/FIB with AFK tracking, role permissions, and real-time map visibility.
 
-- **[GS-Billing](https://github.com/XyraL/GS-Billing)** _(soon)_  
-  Advanced billing system for businesses and LEOs. (Customizale preset bills created by managers/owners of job)
+- **[GS-ChopShop](https://github.com/XyraL/GS-ChopShop)** _(soon)_  
+  Advanced Chop Shop job with Advanced UI + Multi-Step interaction. 
 
 - *(More resources coming as I upload them here!)*
 
@@ -41,7 +41,7 @@ Here are some of my FiveM resources (with more coming soon!):
 
 ## 🎯 Currently Working On
 - Developing **GS-AdminMenu**
-- Developing **GS-Billing**
+- Developing **GS-ChopShop**
 - Developing **LEO tools** (SnapDuty expansions, MDT integrations).  
 - Studying for **Network+, Security+** certifications.
 
