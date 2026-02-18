@@ -13,7 +13,7 @@ Here are some of my FiveM resources (with more coming soon!):
 - **[SnapDuty] (UPDATED) (https://github.com/XyraL/SnapDuty)**  
   A lightweight duty/blip tracking system for PD/EMS/FIB with AFK tracking, role permissions, and real-time map visibility.
 
-- **[GS-ChopShop](https://github.com/XyraL/GS-ChopShop)** _(soon)_  
+- **[GS-ChopShop](https://github.com/XyraL/GS-ChopShop)** _(UPDATED)_  
   Advanced Chop Shop job with Advanced UI + Multi-Step interaction. 
 
 - *(More resources coming as I upload them here!)*
