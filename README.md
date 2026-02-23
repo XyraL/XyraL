@@ -16,7 +16,8 @@ Here are some of my FiveM resources (with more coming soon!):
 - **[GS-ChopShop](https://github.com/XyraL/GS-ChopShop)** _(UPDATED)_  
   Advanced Chop Shop job with Advanced UI + Multi-Step interaction. 
 
-- *(More resources coming as I upload them here!)*
+- **[GS-BlackMarket](https://github.com/XyraL/GS-BlackMarket)** _(BETA)_
+  Tablet-Based Black Market System for QBox / QBCore
 
 ---
 
