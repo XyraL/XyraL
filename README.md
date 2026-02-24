@@ -19,6 +19,9 @@ Here are some of my FiveM resources (with more coming soon!):
 - **[GS-BlackMarket](https://github.com/XyraL/GS-BlackMarket)** _(BETA)_
   Tablet-Based Black Market System for QBox / QBCore
 
+- **[GS-DroneSystem](https://github.com/XyraL/GS-DroneSystem)** _(BETA)_
+  Police Drone system for QBox / QBCore
+
 ---
 
 ## 🛠️ Tech & Tools
