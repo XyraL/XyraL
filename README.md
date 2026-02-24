@@ -34,12 +34,6 @@ Here are some of my FiveM resources (with more coming soon!):
 
 ---
 
-## 📈 GitHub Stats
-![XyraL's GitHub stats](https://github-readme-stats.vercel.app/api?username=XyraL&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XyraL&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Currently Working On
 - Developing **GS-AdminMenu**
 - Developing **GS-ChopShop**
