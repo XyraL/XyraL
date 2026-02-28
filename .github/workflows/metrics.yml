@@ -1,8 +1,8 @@
-name: Metrics
+name: Telemetry (metrics)
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # daily
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,33 +12,26 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      - name: Generate telemetry SVG
         uses: lowlighter/metrics@latest
         with:
           user: XyraL
           template: terminal
-          filename: assets/telemetry.svg
+          filename: telemetry.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Core sections
+          # What to show
           base: header, activity, community, repositories
-
-          # Terminal vibes
-          config_display: large
-          config_padding: 8%
-          config_timezone: America/New_York
-
-          # Plugins
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-
-          plugin_followup: yes
           plugin_lines: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
 
-          # Style polish
-          config_octicon: yes
-          config_twemoji: yes
+          # Vibe tweaks
+          config_timezone: America/New_York
+          config_display: large
+
+          # Where to publish the generated file
+          output_action: github_pages
+          output_branch: output
+          output_dir: .
