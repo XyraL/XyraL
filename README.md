@@ -117,11 +117,11 @@ Lightweight duty & blip tracking system.
 </pre>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XyraL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F14" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XyraL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f14&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XyraL&theme=tokyonight&hide_border=true&background=0B0F14" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XyraL&theme=tokyonight&hide_border=true&background=0b0f14" />
 </p>
 
 ---
