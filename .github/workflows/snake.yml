@@ -2,7 +2,7 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # daily 2:00 UTC
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
