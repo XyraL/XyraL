@@ -1,126 +1,117 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5D4&center=true&vCenter=true&width=700&lines=Alex+%7C+XyraL;FiveM+Systems+Developer;Cybersecurity+Student;I+build+stuff+for+serious+RP+servers">
+  <img alt="banner" src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/banner.svg" />
 </p>
 
-<h1 align="center">XyraL</h1>
-<p align="center">
-  <i>FiveM developer who likes clean systems and dark UIs.</i>
-</p>
+```txt
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ BOOT SEQUENCE: XYRAL.PROFILE                                                 │
+│ STATUS: ONLINE                                                               │
+│ ENVIRONMENT: DARK_TERMINAL                                                   │
+│ ACCESS LEVEL: PUBLIC                                                         │
+└──────────────────────────────────────────────────────────────────────────────┘
+> whoami
 
----
+Hey. I’m Alex — XyraL.
 
-## 🧠 About
+I build FiveM systems for roleplay servers that want more than just drop-in scripts.
 
-Hey, I’m Alex.
+I care about:
 
-I build FiveM systems for roleplay servers that want more than basic plug-and-play scripts.
+clean structure
 
-Most of what I work on is:
-- LEO tools
-- Economy systems
-- Tablet / NUI heavy interfaces
-- Multi-step interaction jobs
-- Stuff that actually feels immersive instead of menu-spam
+performance
 
-I’m also studying cybersecurity (Network+ / Security+ right now), so I tend to care a lot about structure, logic, and not writing spaghetti.
+UI that doesn’t look like 2017
 
-If it’s messy, I rewrite it.
+configs that make sense
 
----
+logic that holds up after week two
 
-## 🚓 Projects
+If something feels messy, I usually rewrite it.
 
-### 🚁 [GS-DroneSystem](https://github.com/XyraL/GS-DroneSystem)
+Currently studying cybersecurity (Network+ / Security+), so yeah… I overthink architecture on purpose.
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ PROJECT INDEX                                                                │
+└──────────────────────────────────────────────────────────────────────────────┘
+> GS-DroneSystem
+
+https://github.com/XyraL/GS-DroneSystem
+
 Police drone system for QBox / QBCore.
 
-- Inventory-based deployment  
-- Tracker dart concept  
-- Expandable for thermal / advanced features  
-- Config-driven permissions  
++ inventory-based deployment
++ config-driven permissions
++ tracker dart concept
++ expansion-ready (thermal, advanced tools)
 
-Built for servers that want tactical tools without overcomplicating things.
+Built for servers that want tactical tools without it feeling bloated.
 
----
+> GS-ChopShop
 
-### 🔧 [GS-ChopShop](https://github.com/XyraL/GS-ChopShop)
-Cinematic chop shop job.
+https://github.com/XyraL/GS-ChopShop
 
-- Multi-step vehicle dismantling  
-- Advanced tablet UI  
-- Reputation / syndicate expansion  
-- Skill-based progression  
+Cinematic vehicle dismantling job.
 
-This one’s meant to feel like a system, not a single script.
++ multi-step part removal
++ advanced tablet UI
++ reputation + syndicate expansion
++ built to feel like a system, not a mini-job
 
----
+This one keeps evolving.
 
-### 🕶 [GS-BlackMarket](https://github.com/XyraL/GS-BlackMarket)
-Tablet-based black market.
+> GS-BlackMarket
 
-- Timed drops  
-- Order progression  
-- Clean UI layout  
-- Fully configurable  
+https://github.com/XyraL/GS-BlackMarket
 
-Still expanding it. Lots more planned.
+Tablet-based black market framework.
 
----
++ timed drops
++ order progression
++ clean UI layout
++ fully configurable
 
-### 🚓 [SnapDuty](https://github.com/XyraL/SnapDuty)
-Lightweight duty & blip system.
+Still expanding it. A lot more planned.
 
-- Real-time tracking  
-- AFK handling  
-- Permission-based jobs  
-- Simple, clean logic  
+> SnapDuty
 
-Straight to the point.
+https://github.com/XyraL/SnapDuty
 
----
+Lightweight duty & blip tracking system.
 
-## ⚙️ Stack
++ real-time tracking
++ AFK handling
++ permission-based roles
++ straight to the point
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ TOOLCHAIN                                                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+<p align="center"> <img src="https://skillicons.dev/icons?i=lua,html,css,git,vscode" /> </p> <p align="center"> <img src="https://img.shields.io/badge/FiveM-FF5700?style=for-the-badge&logo=rockstar-games&logoColor=white"/> <img src="https://img.shields.io/badge/QBCore-0B0F14?style=for-the-badge&logo=lua&logoColor=00F5D4"/> <img src="https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=databricks&logoColor=00F5D4"/> </p>
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ TELEMETRY                                                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=XyraL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F14" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=XyraL&theme=tokyonight&hide_border=true&background=0B0F14" /> </p>
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ SYSTEM LOG                                                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+[ OK ] GS-ChopShop: expanding depth + refining loops
+[ OK ] GS-AdminMenu: in development
+[ OK ] LEO tools: MDT integrations + SnapDuty expansion
+[ .. ] cybersecurity grind: Network+ / Security+
+[ ?? ] sleep schedule: undefined
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ SIGNAL                                                                       │
+└──────────────────────────────────────────────────────────────────────────────┘
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,git,vscode" />
-</p>
+Discord: XyraL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FiveM-FF5700?style=for-the-badge&logo=rockstar-games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QBCore-111111?style=for-the-badge&logo=lua&logoColor=00F5D4"/>
-  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=databricks&logoColor=00F5D4"/>
-</p>
+GitHub: https://github.com/XyraL
 
----
+Website: https://yourwebsite.com
 
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XyraL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XyraL&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## 🔭 Currently Working On
-
-- Expanding GS-ChopShop systems
-- Building GS-AdminMenu
-- LEO utilities + MDT integrations
-- Studying cybersecurity & networking
-
----
-
-## 🌐 Links
-
-- Discord: **XyraL**
-- GitHub: https://github.com/XyraL
-- Website: https://gooberscripts.dev
-
----
-
-<p align="center">
-  <sub>Built at 2AM. Refactored at 3AM.</sub>
-</p>
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ CONTRIBUTION TRACE                                                           │
+└──────────────────────────────────────────────────────────────────────────────┘
+<p align="center"> <img alt="snake" src="https://raw.githubusercontent.com/XyraL/XyraL/output/github-contribution-grid-snake-dark.svg" /> </p>
+END OF TRANSMISSION.
+<p align="center"> <sub>last reboot: whenever coffee allows it</sub> </p> ```
