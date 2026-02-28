@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <!-- Animated neon gradient -->
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5D4">
+        <animate attributeName="stop-color" values="#00F5D4;#7C3AED;#00F5D4" dur="6s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="50%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#00F5D4;#7C3AED" dur="6s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#00F5D4">
+        <animate attributeName="stop-color" values="#00F5D4;#10B981;#00F5D4" dur="6s" repeatCount="indefinite"></animate>
+      </stop>
+      <animate attributeName="x1" values="0;1;0" dur="10s" repeatCount="indefinite"></animate>
+      <animate attributeName="x2" values="1;2;1" dur="10s" repeatCount="indefinite"></animate>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.2" result="b"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="b"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Scanline mask -->
+    <pattern id="scan" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="2" fill="#FFFFFF" opacity="0.10"></rect>
+    </pattern>
+
+    <!-- Subtle noise -->
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n">
+        <animate attributeName="baseFrequency" values="0.7;0.9;0.75" dur="8s" repeatCount="indefinite"></animate>
+      </feTurbulence>
+      <feColorMatrix type="saturate" values="0"></feColorMatrix>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.16"></feFuncA>
+      </feComponentTransfer>
+    </filter>
+
+    <!-- Moving "sweep" bar -->
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="#00F5D4" stop-opacity="0.35"></stop>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="#070A10"></rect>
+  <rect width="1200" height="320" filter="url(#noise)"></rect>
+
+  <!-- Grid -->
+  <g opacity="0.16">
+    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200 M0 300 H1200" stroke="#00F5D4" stroke-width="1"></path>
+    <path d="M80 0 V320 M160 0 V320 M240 0 V320 M320 0 V320 M400 0 V320 M480 0 V320 M560 0 V320 M640 0 V320 M720 0 V320 M800 0 V320 M880 0 V320 M960 0 V320 M1040 0 V320 M1120 0 V320" stroke="#7C3AED" stroke-width="1"></path>
+  </g>
+
+  <!-- Neon frame -->
+  <rect x="24" y="24" width="1152" height="272" rx="18" fill="none" stroke="url(#g)" stroke-width="2.2" filter="url(#glow)" opacity="0.9"></rect>
+
+  <!-- Scanlines -->
+  <rect x="24" y="24" width="1152" height="272" rx="18" fill="url(#scan)" opacity="0.35"></rect>
+
+  <!-- Moving sweep -->
+  <rect x="-400" y="24" width="400" height="272" fill="url(#sweep)" opacity="0.75">
+    <animate attributeName="x" values="-400;1200" dur="3.6s" repeatCount="indefinite"></animate>
+  </rect>
+
+  <!-- Header text -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <text x="64" y="118" font-size="44" fill="#E6EDF3" opacity="0.95">XyraL</text>
+    <text x="64" y="158" font-size="18" fill="#00F5D4" opacity="0.9">FiveM Systems Dev • Cybersecurity Student</text>
+
+    <!-- Faux terminal prompt -->
+    <text x="64" y="210" font-size="16" fill="#9CA3AF" opacity="0.95">$</text>
+    <text x="82" y="210" font-size="16" fill="#E6EDF3" opacity="0.95">init --profile</text>
+
+    <!-- Blinking cursor -->
+    <rect x="238" y="198" width="10" height="18" fill="#00F5D4" opacity="0.85">
+      <animate attributeName="opacity" values="0;0.85;0" dur="1s" repeatCount="indefinite"></animate>
+    </rect>
+  </g>
+</svg>
