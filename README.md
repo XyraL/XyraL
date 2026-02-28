@@ -1,54 +1,126 @@
-# 👋 Hey, I’m Alex (XyraL)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5D4&center=true&vCenter=true&width=700&lines=Alex+%7C+XyraL;FiveM+Systems+Developer;Cybersecurity+Student;I+build+stuff+for+serious+RP+servers">
+</p>
 
-**FiveM Developer | Cyber Security Student**
-
-I develop scripts for **FiveM roleplay servers**.  
-Focused on delivering unique, modern and creative scripts for both civilians and law enforcement.
-
----
-
-## 🚓 Highlighted Projects
-Here are some of my FiveM resources (with more coming soon!):
-
-- **[SnapDuty] (UPDATED) (https://github.com/XyraL/SnapDuty)**  
-  A lightweight duty/blip tracking system for PD/EMS/FIB with AFK tracking, role permissions, and real-time map visibility.
-
-- **[GS-ChopShop](https://github.com/XyraL/GS-ChopShop)** _(UPDATED)_  
-  Advanced Chop Shop job with Advanced UI + Multi-Step interaction. 
-
-- **[GS-BlackMarket](https://github.com/XyraL/GS-BlackMarket)** _(BETA)_
-  Tablet-Based Black Market System for QBox / QBCore
-
-- **[GS-DroneSystem](https://github.com/XyraL/GS-DroneSystem)** _(BETA)_
-  Police Drone system for QBox / QBCore
+<h1 align="center">XyraL</h1>
+<p align="center">
+  <i>FiveM developer who likes clean systems and dark UIs.</i>
+</p>
 
 ---
 
-## 🛠️ Tech & Tools
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🧠 About
 
-![FiveM](https://img.shields.io/badge/FiveM-FF5700?style=for-the-badge&logo=rockstar-games&logoColor=white)
-![QBCore](https://img.shields.io/badge/QBCore-1E1E1E?style=for-the-badge&logo=lua&logoColor=blue)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Hey, I’m Alex.
 
----
+I build FiveM systems for roleplay servers that want more than basic plug-and-play scripts.
 
-## 🎯 Currently Working On
-- Developing **GS-AdminMenu**
-- Developing **GS-ChopShop**
-- Developing **LEO tools** (SnapDuty expansions, MDT integrations).  
-- Studying for **Network+, Security+** certifications.
+Most of what I work on is:
+- LEO tools
+- Economy systems
+- Tablet / NUI heavy interfaces
+- Multi-step interaction jobs
+- Stuff that actually feels immersive instead of menu-spam
+
+I’m also studying cybersecurity (Network+ / Security+ right now), so I tend to care a lot about structure, logic, and not writing spaghetti.
+
+If it’s messy, I rewrite it.
 
 ---
 
-## 📬 Socials
-- Discord: [**XyraL**  ](https://discord.gg/tgqAkBU3zr)
-- GitHub: [XyraL](https://github.com/XyraL)
+## 🚓 Projects
+
+### 🚁 [GS-DroneSystem](https://github.com/XyraL/GS-DroneSystem)
+Police drone system for QBox / QBCore.
+
+- Inventory-based deployment  
+- Tracker dart concept  
+- Expandable for thermal / advanced features  
+- Config-driven permissions  
+
+Built for servers that want tactical tools without overcomplicating things.
 
 ---
 
-_“Developing modern advanced scripts and studying in cybersecurity.”_
+### 🔧 [GS-ChopShop](https://github.com/XyraL/GS-ChopShop)
+Cinematic chop shop job.
+
+- Multi-step vehicle dismantling  
+- Advanced tablet UI  
+- Reputation / syndicate expansion  
+- Skill-based progression  
+
+This one’s meant to feel like a system, not a single script.
+
+---
+
+### 🕶 [GS-BlackMarket](https://github.com/XyraL/GS-BlackMarket)
+Tablet-based black market.
+
+- Timed drops  
+- Order progression  
+- Clean UI layout  
+- Fully configurable  
+
+Still expanding it. Lots more planned.
+
+---
+
+### 🚓 [SnapDuty](https://github.com/XyraL/SnapDuty)
+Lightweight duty & blip system.
+
+- Real-time tracking  
+- AFK handling  
+- Permission-based jobs  
+- Simple, clean logic  
+
+Straight to the point.
+
+---
+
+## ⚙️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,html,css,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-FF5700?style=for-the-badge&logo=rockstar-games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QBCore-111111?style=for-the-badge&logo=lua&logoColor=00F5D4"/>
+  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=databricks&logoColor=00F5D4"/>
+</p>
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XyraL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XyraL&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🔭 Currently Working On
+
+- Expanding GS-ChopShop systems
+- Building GS-AdminMenu
+- LEO utilities + MDT integrations
+- Studying cybersecurity & networking
+
+---
+
+## 🌐 Links
+
+- Discord: **XyraL**
+- GitHub: https://github.com/XyraL
+- Website: https://gooberscripts.dev
+
+---
+
+<p align="center">
+  <sub>Built at 2AM. Refactored at 3AM.</sub>
+</p>
