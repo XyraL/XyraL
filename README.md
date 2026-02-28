@@ -117,7 +117,7 @@ Lightweight duty & blip tracking system.
 </pre>
 
 <p align="center">
-  <img alt="telemetry" src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/telemetry.svg" />
+  <img alt="telemetry" src="https://raw.githubusercontent.com/XyraL/XyraL/output/telemetry.svg" />
 </p>
 
 ---
