@@ -26,7 +26,7 @@ I care about:
 
 If something feels messy, I rewrite it.
 
-Currently studying cybersecurity (Network+ / Security+), so yeah — I overthink architecture on purpose.
+Currently studying cybersecurity (Network+ / Security+)
 
 ---
 
