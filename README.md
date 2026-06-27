@@ -36,6 +36,20 @@ Currently studying cybersecurity (Network+ / Security+)
 └──────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
+### > Cipher  
+https://github.com/XyraL/cipher  
+
+Modular encrypted criminal device for QBox / QBCore.
+
+<pre>
++ admin-managed gangs, territory, and rep progression
++ tasks, crafting, dealer, and drug economy in one platform
++ full admin tablet for live management
++ config-driven — built to be tuned, not rewritten
+</pre>
+
+---
+
 ### > GS-DroneSystem  
 https://github.com/XyraL/GS-DroneSystem  
 
