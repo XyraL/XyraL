@@ -13,14 +13,14 @@
 
 ## > whoami
 
-Hey. I’m Alex — XyraL.
+Hey. I'm Alex — XyraL.
 
 I build FiveM systems for roleplay servers that want more than just drop-in scripts.
 
 I care about:
 - clean structure
 - performance
-- UI that doesn’t look outdated
+- UI that doesn't look outdated
 - configs that make sense
 - logic that holds up long term
 
@@ -35,6 +35,24 @@ Currently studying cybersecurity (Network+ / Security+)
 │ PROJECT INDEX                                                                │
 └──────────────────────────────────────────────────────────────────────────────┘
 </pre>
+
+### > CipherMDT
+https://github.com/XyraL/cipher-mdt
+
+Full-featured Police MDT for QBox / QBCore.
+
+<pre>
++ live CAD dispatch with real-time call broadcasting
++ civilian profiles, mugshots, flags, arrest + citation records
++ incident reports, warrants, BOLOs, penal code library
++ department bulletin board + supervisor audit log
++ body camera logging + quick dispatch keybind (F10)
++ auto-dispatch detection for shots, crashes, robberies
++ ox_target integration — right-click players in-world
++ polished dark UI with sound effects
+</pre>
+
+---
 
 ### > Cipher  
 https://github.com/XyraL/cipher  
@@ -143,9 +161,9 @@ Lightweight duty & blip tracking system.
 </pre>
 
 <pre>
+[ OK ] CipherMDT: shipped — full Police MDT, public release
 [ OK ] GS-ChopShop: expanding depth + refining loops
 [ OK ] GS-AdminMenu: in development
-[ OK ] LEO tools: MDT integrations + SnapDuty expansion
 [ .. ] cybersecurity grind: Network+ / Security+
 [ ?? ] sleep schedule: undefined
 </pre>
