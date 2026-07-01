@@ -36,6 +36,28 @@ Currently studying cybersecurity (Network+ / Security+)
 └──────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
+### > Cipher-Admin
+https://github.com/XyraL/cipher-admin
+
+Advanced admin panel for QBox / QBCore.
+
+<pre>
++ full NUI interface — dark, clean, fast
++ player management: kick, ban, warn, freeze, spectate, DM, slap, screenshot
++ live watch — continuous screenshot feed of any player
++ inventory viewer + compare mode — transfer items between yourself and any player
++ ban manager with temp/perm bans, appeal message, and auto-actions on warns
++ entity inspector — scan and delete nearby vehicles and NPCs
++ resource manager — view and restart resources in-panel
++ self actions: godmode, noclip, superjump, supersprint, clear area, spawn props
++ reports system — players use /report, admins claim + respond in-panel
++ admin chat, mass announcements, weathersync-compatible time/weather
++ role-based permissions — fully configurable live from the Permissions panel
++ audit log with optional Discord webhook
+</pre>
+
+---
+
 ### > CipherMDT
 https://github.com/XyraL/cipher-mdt
 
@@ -161,9 +183,9 @@ Lightweight duty & blip tracking system.
 </pre>
 
 <pre>
+[ OK ] Cipher-Admin: shipped — full NUI admin panel, public release
 [ OK ] CipherMDT: shipped — full Police MDT, public release
 [ OK ] GS-ChopShop: expanding depth + refining loops
-[ OK ] GS-AdminMenu: in development
 [ .. ] cybersecurity grind: Network+ / Security+
 [ ?? ] sleep schedule: undefined
 </pre>
