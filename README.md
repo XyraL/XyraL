@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=decrypting+identity...;FiveM+systems+that+feel+like+platforms%2C+not+scripts;QBox+%2F+QBCore+%C2%B7+performance-first+%C2%B7+config-driven;if+it+feels+messy%2C+I+rewrite+it." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=FiveM+script+developer;QBox+%2F+QBCore+%C2%B7+Lua+%C2%B7+NUI;police+tools%2C+gangs%2C+jobs+%26+custom+UI;currently+building+the+Cipher+suite" alt="typing" />
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@
 
 ```ruby
 identity  = "Alex // XyraL"
-role      = "FiveM Systems Architect"
+role      = "FiveM script developer"
 studying  = "Cybersecurity  (Network+ / Security+)"
 stack     = ["Lua", "JS/NUI", "SQL", "QBox", "QBCore"]
 building  = "Cipher — a suite of encrypted RP systems"
 ```
 
-> I build FiveM systems for roleplay servers that want **more than drop-in scripts** —
-> clean structure, real performance, UI that isn't stuck in 2019, and configs that
-> actually make sense. Everything ships under the **Cipher** brand.
+> I'm a FiveM developer building QBox and QBCore resources for roleplay servers.
+> I work mainly on police, gang, and job systems, with a focus on performance and
+> well-built UI. Everything I make is released publicly under the **Cipher** name.
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
