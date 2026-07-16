@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#FF2A6D"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#05070D"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round"><rect width="1000" height="1000" rx="220"/></clipPath>
+    <clipPath id="safe"><circle cx="500" cy="500" r="500"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <!-- Background -->
+    <rect width="1000" height="1000" fill="url(#vig)"/>
+
+    <!-- Faint grid, clipped to circle safe zone so corners stay clean -->
+    <g clip-path="url(#safe)" opacity="0.14">
+      <path d="M0 160 H1000 M0 320 H1000 M0 480 H1000 M0 640 H1000 M0 840 H1000" stroke="#00F5D4" stroke-width="2"/>
+      <path d="M160 0 V1000 M320 0 V1000 M480 0 V1000 M640 0 V1000 M840 0 V1000" stroke="#FF2A6D" stroke-width="2"/>
+    </g>
+
+    <!-- Neon ring -->
+    <circle cx="500" cy="500" r="452" fill="none" stroke="url(#neon)" stroke-width="6" opacity="0.9" filter="url(#glow)"/>
+    <circle cx="500" cy="500" r="452" fill="none" stroke="#05070D" stroke-width="2" opacity="0.5"/>
+
+    <!-- Corner ticks -->
+    <g stroke="#00F5D4" stroke-width="6" opacity="0.8" fill="none">
+      <path d="M150 250 V150 H250"/>
+      <path d="M850 250 V150 H750"/>
+    </g>
+    <g stroke="#FF2A6D" stroke-width="6" opacity="0.8" fill="none">
+      <path d="M150 750 V850 H250"/>
+      <path d="M850 750 V850 H750"/>
+    </g>
+
+    <!-- prompt accent -->
+    <text x="500" y="360" font-size="46" font-weight="600" fill="#00F5D4" text-anchor="middle" opacity="0.9" letter-spacing="6">&#47;&#47; ENCRYPTED</text>
+
+    <!-- Wordmark: glitch RGB-split CIPHER -->
+    <g filter="url(#glow)" font-size="210" font-weight="800" letter-spacing="6" text-anchor="middle">
+      <text x="488" y="560" fill="#FF2A6D" opacity="0.85">CIPHER</text>
+      <text x="512" y="560" fill="#00F5D4" opacity="0.85">CIPHER</text>
+      <text x="500" y="560" fill="#EAF2FF">CIPHER</text>
+    </g>
+
+    <!-- underline + tag -->
+    <rect x="290" y="612" width="420" height="6" rx="3" fill="url(#neon)"/>
+    <text x="500" y="700" font-size="52" font-weight="600" fill="#9AA7BD" text-anchor="middle" letter-spacing="20">XYRAL</text>
+  </g>
+</svg>
