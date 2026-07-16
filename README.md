@@ -1,221 +1,171 @@
+<!--  ╔══════════════════════════════════════════════════════════════╗
+      ║  CIPHER://XYRAL  ·  profile.id  ·  do not edit while decrypting ║
+      ╚══════════════════════════════════════════════════════════════╝ -->
+
 <p align="center">
-  <img alt="banner" src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/banner.svg" />
+  <img alt="CIPHER://XYRAL" src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/banner.svg" width="100%" />
 </p>
 
-<pre>
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ BOOT SEQUENCE: XYRAL.PROFILE                                                 │
-│ STATUS: ONLINE                                                               │
-│ ENVIRONMENT: DARK_TERMINAL                                                   │
-│ ACCESS LEVEL: PUBLIC                                                         │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=decrypting+identity...;FiveM+systems+that+feel+like+platforms%2C+not+scripts;QBox+%2F+QBCore+%C2%B7+performance-first+%C2%B7+config-driven;if+it+feels+messy%2C+I+rewrite+it." alt="typing" />
+</p>
 
-## > whoami
+<p align="center">
+  <a href="https://github.com/XyraL"><img src="https://img.shields.io/badge/GitHub-XyraL-05070D?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=05070D" /></a>
+  <img src="https://img.shields.io/badge/Discord-XyraL-05070D?style=for-the-badge&logo=discord&logoColor=7C3AED&labelColor=05070D" />
+  <img src="https://komarev.com/ghpvc/?username=XyraL&style=for-the-badge&color=FF2A6D&label=VISITS" />
+</p>
 
-Hey. I'm Alex — XyraL.
+<p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-I build FiveM systems for roleplay servers that want more than just drop-in scripts.
+## `0x01` &nbsp;&#9608;&#9608;&#9608;&nbsp; WHOAMI
 
-I care about:
-- clean structure
-- performance
-- UI that doesn't look outdated
-- configs that make sense
-- logic that holds up long term
+```ruby
+identity  = "Alex // XyraL"
+role      = "FiveM Systems Architect"
+studying  = "Cybersecurity  (Network+ / Security+)"
+stack     = ["Lua", "JS/NUI", "SQL", "QBox", "QBCore"]
+building  = "Cipher — a suite of encrypted RP systems"
+```
 
-If something feels messy, I rewrite it.
+> I build FiveM systems for roleplay servers that want **more than drop-in scripts** —
+> clean structure, real performance, UI that isn't stuck in 2019, and configs that
+> actually make sense. Everything ships under the **Cipher** brand.
 
-Currently studying cybersecurity (Network+ / Security+)
+<p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
----
+## `0x02` &nbsp;&#9608;&#9608;&#9608;&nbsp; ARSENAL &nbsp;<sub>`// live repositories`</sub>
 
-<pre>
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ PROJECT INDEX                                                                │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### > Cipher-Admin
-https://github.com/XyraL/cipher-admin
+### [`cipher`](https://github.com/XyraL/cipher) 🔒
+**Modular encrypted criminal device.**
+```diff
++ admin-managed gangs, territory & rep
++ tasks, crafting, dealer, drug economy
++ full in-game admin tablet
++ config-driven — tuned, not rewritten
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
 
-Advanced admin panel for QBox / QBCore.
+</td>
+<td width="50%" valign="top">
 
-<pre>
-+ full NUI interface — dark, clean, fast
-+ player management: kick, ban, warn, freeze, spectate, DM, slap, screenshot
-+ live watch — continuous screenshot feed of any player
-+ inventory viewer + compare mode — transfer items between yourself and any player
-+ ban manager with temp/perm bans, appeal message, and auto-actions on warns
-+ entity inspector — scan and delete nearby vehicles and NPCs
-+ resource manager — view and restart resources in-panel
-+ self actions: godmode, noclip, superjump, supersprint, clear area, spawn props
-+ reports system — players use /report, admins claim + respond in-panel
-+ admin chat, mass announcements, weathersync-compatible time/weather
-+ role-based permissions — fully configurable live from the Permissions panel
-+ audit log with optional Discord webhook
-</pre>
+### [`cipher-mdt`](https://github.com/XyraL/cipher-mdt) 🚔
+**Full Police MDT + live CAD dispatch.**
+```diff
++ real-time CAD + auto-dispatch detection
++ profiles, records, warrants, BOLOs, penal code
++ body-cam logs · F10 quick dispatch
++ ox_target · polished dark UI + SFX
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### > CipherMDT
-https://github.com/XyraL/cipher-mdt
+### [`cipher-admin`](https://github.com/XyraL/cipher-admin) 🛡️
+**Advanced admin panel & live moderation.**
+```diff
++ kick/ban/warn/freeze/spectate/slap
++ live screenshot watch + inventory viewer
++ ban manager · reports · entity inspector
++ role-based perms + Discord audit log
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
 
-Full-featured Police MDT for QBox / QBCore.
+</td>
+<td width="50%" valign="top">
 
-<pre>
-+ live CAD dispatch with real-time call broadcasting
-+ civilian profiles, mugshots, flags, arrest + citation records
-+ incident reports, warrants, BOLOs, penal code library
-+ department bulletin board + supervisor audit log
-+ body camera logging + quick dispatch keybind (F10)
-+ auto-dispatch detection for shots, crashes, robberies
-+ ox_target integration — right-click players in-world
-+ polished dark UI with sound effects
-</pre>
-
----
-
-### > Cipher  
-https://github.com/XyraL/cipher  
-
-Modular encrypted criminal device for QBox / QBCore.
-
-<pre>
-+ admin-managed gangs, territory, and rep progression
-+ tasks, crafting, dealer, and drug economy in one platform
-+ full admin tablet for live management
-+ config-driven — built to be tuned, not rewritten
-</pre>
-
----
-
-### > GS-DroneSystem  
-https://github.com/XyraL/GS-DroneSystem  
-
-Police drone system for QBox / QBCore.
-
-<pre>
+### [`cipher-drone`](https://github.com/XyraL/cipher-drone) 🛸
+**Police drone system + counterplay.**
+```diff
++ flight, spotlight, thermal, tracker darts
 + inventory-based deployment
-+ config-driven permissions
-+ tracker dart concept
-+ expansion-ready (thermal, advanced tools)
-</pre>
++ shoot-down mechanic
++ criminal-side jamming counterplay
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
 
----
+</td>
+</tr>
+</table>
 
-### > GS-ChopShop  
-https://github.com/XyraL/GS-ChopShop  
+<p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-Cinematic vehicle dismantling job.
+## `0x03` &nbsp;&#9608;&#9608;&#9608;&nbsp; PIPELINE &nbsp;<sub>`// decrypting — in development`</sub>
 
-<pre>
-+ multi-step part removal
-+ advanced tablet UI
-+ reputation + syndicate expansion
-+ built to feel like a system, not a mini-job
-</pre>
+```yaml
+cipher-banking:   [ ▓▓▓▓▓▓▓▓░░ ]  full banking overhaul · cards · loans · credit
+                                   bills · shared accounts · skimmer · /billing
+cipher-trucking:  [ ▓▓▓▓▓▓▓▓▓░ ]  civilian delivery job-loop · progression
+cipher-paintball: [ ▓▓▓▓▓▓▓░░░ ]  arena system · admin tablet · challenges
+```
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-### > GS-BlackMarket  
-https://github.com/XyraL/GS-BlackMarket  
-
-Tablet-based black market framework.
-
-<pre>
-+ timed drops
-+ order progression
-+ clean UI layout
-+ fully configurable
-</pre>
-
----
-
-### > SnapDuty  
-https://github.com/XyraL/SnapDuty  
-
-Lightweight duty & blip tracking system.
-
-<pre>
-+ real-time tracking
-+ AFK handling
-+ permission-based roles
-+ straight to the point
-</pre>
-
----
-
-<pre>
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ TOOLCHAIN                                                                    │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+## `0x04` &nbsp;&#9608;&#9608;&#9608;&nbsp; TOOLCHAIN
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,sql,git,github,vscode&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-FF2A6D?style=for-the-badge&logo=rockstar-games&logoColor=white" />
+  <img src="https://img.shields.io/badge/QBox-05070D?style=for-the-badge&logo=lua&logoColor=00F5D4" />
+  <img src="https://img.shields.io/badge/QBCore-05070D?style=for-the-badge&logo=lua&logoColor=00F5D4" />
+  <img src="https://img.shields.io/badge/ox__lib-05070D?style=for-the-badge&logo=lua&logoColor=7C3AED" />
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
+
+## `0x05` &nbsp;&#9608;&#9608;&#9608;&nbsp; TELEMETRY
+
+<p align="center">
+  <img alt="telemetry" src="https://raw.githubusercontent.com/XyraL/XyraL/output/telemetry.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FiveM-FF5700?style=for-the-badge&logo=rockstar-games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QBCore-0B0F14?style=for-the-badge&logo=lua&logoColor=00F5D4"/>
-  <img src="https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=databricks&logoColor=00F5D4"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/XyraL/XyraL/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-<pre>
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ TELEMETRY                                                                    │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+## `0x06` &nbsp;&#9608;&#9608;&#9608;&nbsp; SIGNAL
 
-<p align="center">
-  <img alt="telemetry" src="https://raw.githubusercontent.com/XyraL/XyraL/output/telemetry.svg" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
 
----
+`> connect`
+**Discord**
+`XyraL`
 
-<pre>
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ SYSTEM LOG                                                                   │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+</td>
+<td align="center">
 
-<pre>
-[ OK ] Cipher-Admin: shipped — full NUI admin panel, public release
-[ OK ] CipherMDT: shipped — full Police MDT, public release
-[ OK ] GS-ChopShop: expanding depth + refining loops
-[ .. ] cybersecurity grind: Network+ / Security+
-[ ?? ] sleep schedule: undefined
-</pre>
+`> source`
+[**GitHub**](https://github.com/XyraL)
+`@XyraL`
 
----
+</td>
+<td align="center">
 
-<pre>
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ SIGNAL                                                                       │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+`> status`
+**cybersec grind**
+`Net+ / Sec+`
 
-- Discord: **XyraL**
-- GitHub: https://github.com/XyraL
-- Website: https://yourwebsite.com
-
----
-
-<pre>
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ CONTRIBUTION TRACE                                                           │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/XyraL/XyraL/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <sub>last reboot: whenever coffee allows it</sub>
+  <sub>&#9608; connection secured &#9608; &nbsp; last reboot: whenever the coffee allows it &nbsp; &#9608;</sub>
 </p>

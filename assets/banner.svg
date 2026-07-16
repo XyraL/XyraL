@@ -1,86 +1,135 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Courier New', monospace">
   <defs>
-    <!-- Animated neon gradient -->
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <!-- Neon sweep gradient (cyan <-> magenta) -->
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#00F5D4">
-        <animate attributeName="stop-color" values="#00F5D4;#7C3AED;#00F5D4" dur="6s" repeatCount="indefinite"></animate>
+        <animate attributeName="stop-color" values="#00F5D4;#FF2A6D;#00F5D4" dur="7s" repeatCount="indefinite"/>
       </stop>
       <stop offset="50%" stop-color="#7C3AED">
-        <animate attributeName="stop-color" values="#7C3AED;#00F5D4;#7C3AED" dur="6s" repeatCount="indefinite"></animate>
+        <animate attributeName="stop-color" values="#7C3AED;#00F5D4;#7C3AED" dur="7s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#00F5D4">
-        <animate attributeName="stop-color" values="#00F5D4;#10B981;#00F5D4" dur="6s" repeatCount="indefinite"></animate>
+      <stop offset="100%" stop-color="#FF2A6D">
+        <animate attributeName="stop-color" values="#FF2A6D;#7C3AED;#FF2A6D" dur="7s" repeatCount="indefinite"/>
       </stop>
-      <animate attributeName="x1" values="0;1;0" dur="10s" repeatCount="indefinite"></animate>
-      <animate attributeName="x2" values="1;2;1" dur="10s" repeatCount="indefinite"></animate>
     </linearGradient>
 
-    <!-- Glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.2" result="b"></feGaussianBlur>
+    <linearGradient id="barfill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="100%" stop-color="#FF2A6D"/>
+    </linearGradient>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
       <feMerge>
-        <feMergeNode in="b"></feMergeNode>
-        <feMergeNode in="SourceGraphic"></feMergeNode>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Scanline mask -->
-    <pattern id="scan" width="10" height="10" patternUnits="userSpaceOnUse">
-      <rect width="10" height="2" fill="#FFFFFF" opacity="0.10"></rect>
+    <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="1.4" fill="#FFFFFF" opacity="0.06"/>
     </pattern>
 
-    <!-- Subtle noise -->
-    <filter id="noise">
-      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n">
-        <animate attributeName="baseFrequency" values="0.7;0.9;0.75" dur="8s" repeatCount="indefinite"></animate>
-      </feTurbulence>
-      <feColorMatrix type="saturate" values="0"></feColorMatrix>
-      <feComponentTransfer>
-        <feFuncA type="table" tableValues="0 0.16"></feFuncA>
-      </feComponentTransfer>
-    </filter>
+    <clipPath id="slice"><rect x="0" y="118" width="1200" height="52"/></clipPath>
 
-    <!-- Moving "sweep" bar -->
-    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0"></stop>
-      <stop offset="50%" stop-color="#00F5D4" stop-opacity="0.35"></stop>
-      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0"></stop>
+    <!-- Fade mask so matrix rain dissolves at edges -->
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#000" stop-opacity="1"/>
+      <stop offset="82%" stop-color="#000" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </linearGradient>
+    <mask id="rainmask"><rect width="1200" height="300" fill="url(#fade)"/></mask>
+
+    <!-- One reusable rain column: 34 glyphs = 17 repeated, so -306px scroll loops seamlessly -->
+    <g id="col" font-size="15" fill="#00F5D4">
+      <text x="0" y="0">
+        <tspan x="0" dy="0">0</tspan><tspan x="0" dy="18">1</tspan><tspan x="0" dy="18">F</tspan><tspan x="0" dy="18">A</tspan>
+        <tspan x="0" dy="18">C</tspan><tspan x="0" dy="18">7</tspan><tspan x="0" dy="18">#</tspan><tspan x="0" dy="18">3</tspan>
+        <tspan x="0" dy="18">E</tspan><tspan x="0" dy="18">9</tspan><tspan x="0" dy="18">x</tspan><tspan x="0" dy="18">B</tspan>
+        <tspan x="0" dy="18">5</tspan><tspan x="0" dy="18">/</tspan><tspan x="0" dy="18">8</tspan><tspan x="0" dy="18">D</tspan>
+        <tspan x="0" dy="18">2</tspan>
+        <tspan x="0" dy="18">0</tspan><tspan x="0" dy="18">1</tspan><tspan x="0" dy="18">F</tspan><tspan x="0" dy="18">A</tspan>
+        <tspan x="0" dy="18">C</tspan><tspan x="0" dy="18">7</tspan><tspan x="0" dy="18">#</tspan><tspan x="0" dy="18">3</tspan>
+        <tspan x="0" dy="18">E</tspan><tspan x="0" dy="18">9</tspan><tspan x="0" dy="18">x</tspan><tspan x="0" dy="18">B</tspan>
+        <tspan x="0" dy="18">5</tspan><tspan x="0" dy="18">/</tspan><tspan x="0" dy="18">8</tspan><tspan x="0" dy="18">D</tspan>
+        <tspan x="0" dy="18">2</tspan>
+      </text>
+    </g>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="320" fill="#070A10"></rect>
-  <rect width="1200" height="320" filter="url(#noise)"></rect>
+  <rect width="1200" height="300" fill="#05070D"/>
 
   <!-- Grid -->
-  <g opacity="0.16">
-    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200 M0 300 H1200" stroke="#00F5D4" stroke-width="1"></path>
-    <path d="M80 0 V320 M160 0 V320 M240 0 V320 M320 0 V320 M400 0 V320 M480 0 V320 M560 0 V320 M640 0 V320 M720 0 V320 M800 0 V320 M880 0 V320 M960 0 V320 M1040 0 V320 M1120 0 V320" stroke="#7C3AED" stroke-width="1"></path>
+  <g opacity="0.12">
+    <path d="M0 50 H1200 M0 100 H1200 M0 150 H1200 M0 200 H1200 M0 250 H1200" stroke="#00F5D4" stroke-width="1"/>
+    <path d="M100 0 V300 M200 0 V300 M300 0 V300 M400 0 V300 M500 0 V300 M600 0 V300 M700 0 V300 M800 0 V300 M900 0 V300 M1000 0 V300 M1100 0 V300" stroke="#FF2A6D" stroke-width="1"/>
+  </g>
+
+  <!-- Matrix rain -->
+  <g mask="url(#rainmask)" opacity="0.55">
+    <g transform="translate(60,-40)"  opacity="0.6"><use href="#col"><animateTransform attributeName="transform" type="translate" values="0,0;0,-306" dur="5.5s" repeatCount="indefinite"/></use></g>
+    <g transform="translate(150,-40)" opacity="0.4"><use href="#col"><animateTransform attributeName="transform" type="translate" values="0,-120;0,-426" dur="7.5s" repeatCount="indefinite"/></use></g>
+    <g transform="translate(250,-40)" opacity="0.55"><use href="#col"><animateTransform attributeName="transform" type="translate" values="0,-60;0,-366" dur="6.2s" repeatCount="indefinite"/></use></g>
+    <g transform="translate(360,-40)" opacity="0.35"><use href="#col"><animateTransform attributeName="transform" type="translate" values="0,-200;0,-506" dur="8.4s" repeatCount="indefinite"/></use></g>
+    <g transform="translate(900,-40)" opacity="0.5"><use href="#col"><animateTransform attributeName="transform" type="translate" values="0,-30;0,-336" dur="6.8s" repeatCount="indefinite"/></use></g>
+    <g transform="translate(1000,-40)" opacity="0.4"><use href="#col"><animateTransform attributeName="transform" type="translate" values="0,-160;0,-466" dur="5.9s" repeatCount="indefinite"/></use></g>
+    <g transform="translate(1090,-40)" opacity="0.55"><use href="#col"><animateTransform attributeName="transform" type="translate" values="0,-90;0,-396" dur="7.1s" repeatCount="indefinite"/></use></g>
   </g>
 
   <!-- Neon frame -->
-  <rect x="24" y="24" width="1152" height="272" rx="18" fill="none" stroke="url(#g)" stroke-width="2.2" filter="url(#glow)" opacity="0.9"></rect>
-
-  <!-- Scanlines -->
-  <rect x="24" y="24" width="1152" height="272" rx="18" fill="url(#scan)" opacity="0.35"></rect>
+  <rect x="20" y="20" width="1160" height="260" rx="16" fill="none" stroke="url(#neon)" stroke-width="2.2" filter="url(#glow)" opacity="0.9"/>
+  <rect x="20" y="20" width="1160" height="260" rx="16" fill="url(#scan)"/>
 
   <!-- Moving sweep -->
-  <rect x="-400" y="24" width="400" height="272" fill="url(#sweep)" opacity="0.75">
-    <animate attributeName="x" values="-400;1200" dur="3.6s" repeatCount="indefinite"></animate>
+  <rect x="-300" y="20" width="300" height="260" opacity="0.5">
+    <animate attributeName="x" values="-300;1200" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00F5D4;#FF2A6D;#00F5D4" dur="4s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Header text -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
-    <text x="64" y="118" font-size="44" fill="#E6EDF3" opacity="0.95">XyraL</text>
-    <text x="64" y="158" font-size="18" fill="#00F5D4" opacity="0.9">FiveM Systems Dev • Cybersecurity Student</text>
+  <!-- Prompt line -->
+  <text x="60" y="78" font-size="15" fill="#5A6B85">root@xyral:~$ <tspan fill="#00F5D4">cipher</tspan> --decrypt profile.id</text>
 
-    <!-- Faux terminal prompt -->
-    <text x="64" y="210" font-size="16" fill="#9CA3AF" opacity="0.95">$</text>
-    <text x="82" y="210" font-size="16" fill="#E6EDF3" opacity="0.95">init --profile</text>
+  <!-- Glitch title: magenta + cyan ghosts under white, with RGB-split animation -->
+  <g filter="url(#glow)">
+    <text x="58" y="160" font-size="70" font-weight="700" fill="#FF2A6D" opacity="0.85">CIPHER://XYRAL
+      <animate attributeName="x" values="58;54;61;58" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="62" y="160" font-size="70" font-weight="700" fill="#00F5D4" opacity="0.85">CIPHER://XYRAL
+      <animate attributeName="x" values="62;66;59;62" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="60" y="160" font-size="70" font-weight="700" fill="#EAF2FF">CIPHER://XYRAL</text>
+  </g>
 
-    <!-- Blinking cursor -->
-    <rect x="238" y="198" width="10" height="18" fill="#00F5D4" opacity="0.85">
-      <animate attributeName="opacity" values="0;0.85;0" dur="1s" repeatCount="indefinite"></animate>
-    </rect>
+  <!-- Glitch slice: a clipped band that jerks sideways -->
+  <g clip-path="url(#slice)">
+    <text x="60" y="160" font-size="70" font-weight="700" fill="#00F5D4" opacity="0.9">CIPHER://XYRAL
+      <animate attributeName="x" values="60;60;60;92;60;60;36;60;60" keyTimes="0;0.3;0.32;0.35;0.4;0.7;0.72;0.75;1" dur="3.7s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="62" y="196" font-size="17" fill="#9AA7BD">FiveM Systems Architect<tspan fill="#FF2A6D"> // </tspan>Cybersecurity Student<tspan fill="#00F5D4"> // </tspan>QBox &#183; QBCore</text>
+
+  <!-- Decrypt bar -->
+  <text x="62" y="238" font-size="14" fill="#5A6B85">ACCESS</text>
+  <rect x="128" y="226" width="360" height="14" rx="7" fill="#0E1626" stroke="#1E2A40" stroke-width="1"/>
+  <rect x="130" y="228" width="10" height="10" rx="5" fill="url(#barfill)">
+    <animate attributeName="width" values="10;356;356" keyTimes="0;0.7;1" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="500" y="238" font-size="14" fill="#00F5D4">GRANTED
+    <animate attributeName="opacity" values="0;0;1;1;0.4;1" keyTimes="0;0.65;0.7;0.85;0.9;1" dur="3.2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Status chips -->
+  <g font-size="13">
+    <rect x="820" y="60" width="150" height="26" rx="13" fill="#0E1626" stroke="#00F5D4" stroke-width="1" opacity="0.9"/>
+    <circle cx="838" cy="73" r="4" fill="#00F5D4"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="850" y="77" fill="#B9C6DC">STATUS: ONLINE</text>
+
+    <rect x="820" y="96" width="150" height="26" rx="13" fill="#0E1626" stroke="#FF2A6D" stroke-width="1" opacity="0.9"/>
+    <circle cx="838" cy="109" r="4" fill="#FF2A6D"/>
+    <text x="850" y="113" fill="#B9C6DC">MODE: BUILDING</text>
   </g>
 </svg>
