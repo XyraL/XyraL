@@ -1,13 +1,13 @@
 <!--  ╔══════════════════════════════════════════════════════════════╗
-      ║  CIPHER://XYRAL  ·  profile.id  ·  do not edit while decrypting ║
+      ║  XYRALSCRIPTS  ·  profile.id  ·  do not edit while decrypting ║
       ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img alt="CIPHER://XYRAL" src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/banner.svg" width="100%" />
+  <img alt="XYRALSCRIPTS" src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/banner.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=FiveM+script+developer;QBox+%2F+QBCore+%C2%B7+Lua+%C2%B7+NUI;police+tools%2C+gangs%2C+jobs+%26+custom+UI;currently+building+the+Cipher+suite" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=FiveM+script+developer;QBox+%2F+QBCore+%C2%B7+Lua+%C2%B7+NUI;police+tools%2C+gangs%2C+jobs+%26+custom+UI;currently+building+XyraLScripts" alt="typing" />
 </p>
 
 <p align="center">
@@ -25,12 +25,12 @@ identity  = "Alex // XyraL"
 role      = "FiveM script developer"
 studying  = "Cybersecurity  (Network+ / Security+)"
 stack     = ["Lua", "JS/NUI", "SQL", "QBox", "QBCore"]
-building  = "Cipher — a suite of encrypted RP systems"
+building  = "XyraLScripts — free QBox / QBCore resources"
 ```
 
 > I'm a FiveM developer building QBox and QBCore resources for roleplay servers.
 > I work mainly on police, gang, and job systems, with a focus on performance and
-> well-built UI. Everything I make is released publicly under the **Cipher** name.
+> well-built UI. Everything I make is released publicly as **XyraLScripts**.
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
@@ -40,7 +40,7 @@ building  = "Cipher — a suite of encrypted RP systems"
 <tr>
 <td width="50%" valign="top">
 
-### [`cipher`](https://github.com/XyraL/cipher) 🔒
+### [`XS-CriminalTablet`](https://github.com/XyraL/XS-CriminalTablet) 🔒
 **Modular encrypted criminal device.**
 ```diff
 + admin-managed gangs, territory & rep
@@ -54,7 +54,7 @@ building  = "Cipher — a suite of encrypted RP systems"
 </td>
 <td width="50%" valign="top">
 
-### [`cipher-mdt`](https://github.com/XyraL/cipher-mdt) 🚔
+### [`XS-MDT`](https://github.com/XyraL/XS-MDT) 🚔
 **Full Police MDT + live CAD dispatch.**
 ```diff
 + real-time CAD + auto-dispatch detection
@@ -70,7 +70,7 @@ building  = "Cipher — a suite of encrypted RP systems"
 <tr>
 <td width="50%" valign="top">
 
-### [`cipher-admin`](https://github.com/XyraL/cipher-admin) 🛡️
+### [`XS-AdminMenu`](https://github.com/XyraL/XS-AdminMenu) 🛡️
 **Advanced admin panel & live moderation.**
 ```diff
 + kick/ban/warn/freeze/spectate/slap
@@ -84,7 +84,7 @@ building  = "Cipher — a suite of encrypted RP systems"
 </td>
 <td width="50%" valign="top">
 
-### [`cipher-drone`](https://github.com/XyraL/cipher-drone) 🛸
+### [`XS-Drone`](https://github.com/XyraL/XS-Drone) 🛸
 **Police drone system + counterplay.**
 ```diff
 + flight, spotlight, thermal, tracker darts
@@ -104,10 +104,9 @@ building  = "Cipher — a suite of encrypted RP systems"
 ## `0x03` &nbsp;&#9608;&#9608;&#9608;&nbsp; PIPELINE &nbsp;<sub>`// decrypting — in development`</sub>
 
 ```yaml
-cipher-banking:   [ ▓▓▓▓▓▓▓▓░░ ]  full banking overhaul · cards · loans · credit
-                                   bills · shared accounts · skimmer · /billing
-cipher-trucking:  [ ▓▓▓▓▓▓▓▓▓░ ]  civilian delivery job-loop · progression
-cipher-paintball: [ ▓▓▓▓▓▓▓░░░ ]  arena system · admin tablet · challenges
+XS-Drugs:      [ ▓▓▓▓░░░░░░ ]  standalone weed empire · supply chain · territory
+XS-Paintball:  [ ▓▓▓▓▓▓▓▓▓░ ]  arena modes · in-game map builder · lobbies
+XS-NPCs:       [ ▓▓▓▓▓▓▓▓▓░ ]  AI citizens you can actually talk to
 ```
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
