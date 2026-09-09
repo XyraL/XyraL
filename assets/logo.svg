@@ -42,13 +42,13 @@
     </g>
 
     <!-- prompt accent -->
-    <text x="500" y="360" font-size="46" font-weight="600" fill="#00F5D4" text-anchor="middle" opacity="0.9" letter-spacing="6">&#47;&#47; ENCRYPTED</text>
+    <text x="500" y="360" font-size="46" font-weight="600" fill="#00F5D4" text-anchor="middle" opacity="0.9" letter-spacing="6">&#47;&#47; ENCRYPTED#47;&#47;&#47; ENCRYPTED#47; FIVEM SCRIPTS</text>
 
-    <!-- Wordmark: glitch RGB-split CIPHER -->
+    <!-- Wordmark: glitch RGB-split XYRAL -->
     <g filter="url(#glow)" font-size="210" font-weight="800" letter-spacing="6" text-anchor="middle">
-      <text x="488" y="560" fill="#FF2A6D" opacity="0.85">CIPHER</text>
-      <text x="512" y="560" fill="#00F5D4" opacity="0.85">CIPHER</text>
-      <text x="500" y="560" fill="#EAF2FF">CIPHER</text>
+      <text x="488" y="560" fill="#FF2A6D" opacity="0.85">XYRAL</text>
+      <text x="512" y="560" fill="#00F5D4" opacity="0.85">XYRAL</text>
+      <text x="500" y="560" fill="#EAF2FF">XYRAL</text>
     </g>
 
     <!-- underline + tag -->
