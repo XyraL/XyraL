@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://xyralscripts.dev"><img src="https://img.shields.io/badge/xyralscripts.dev-05070D?style=for-the-badge&logo=firefoxbrowser&logoColor=00F5D4&labelColor=05070D" /></a>
   <a href="https://github.com/XyraL"><img src="https://img.shields.io/badge/GitHub-XyraL-05070D?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=05070D" /></a>
   <img src="https://img.shields.io/badge/Discord-XyraL-05070D?style=for-the-badge&logo=discord&logoColor=7C3AED&labelColor=05070D" />
   <img src="https://komarev.com/ghpvc/?username=XyraL&style=for-the-badge&color=FF2A6D&label=VISITS" />
@@ -26,8 +27,12 @@ role      = "FiveM script developer"
 studying  = "Cybersecurity  (Network+ / Security+)"
 stack     = ["Lua", "JS/NUI", "SQL", "QBox", "QBCore"]
 building  = "XyraLScripts — free QBox / QBCore resources"
+site      = "xyralscripts.dev"
 ```
 
+> Everything lives at **[xyralscripts.dev](https://xyralscripts.dev)** — docs, screenshots and
+> playable demos of every UI, all free.
+>
 > I'm a FiveM developer building QBox and QBCore resources for roleplay servers.
 > I work mainly on police, gang, and job systems, with a focus on performance and
 > well-built UI. Everything I make is released publicly as **XyraLScripts**.
@@ -50,6 +55,7 @@ building  = "XyraLScripts — free QBox / QBCore resources"
 ```
 ![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
 ![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-criminaltablet)
 
 </td>
 <td width="50%" valign="top">
@@ -64,6 +70,7 @@ building  = "XyraLScripts — free QBox / QBCore resources"
 ```
 ![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
 ![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-mdt)
 
 </td>
 </tr>
@@ -80,6 +87,7 @@ building  = "XyraLScripts — free QBox / QBCore resources"
 ```
 ![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
 ![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-adminmenu)
 
 </td>
 <td width="50%" valign="top">
@@ -94,6 +102,139 @@ building  = "XyraLScripts — free QBox / QBCore resources"
 ```
 ![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
 ![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-drone)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`XS-Phone`](https://github.com/XyraL/XS-Phone) 📱
+**iPhone-style smartphone. 20+ apps.**
+```diff
++ real voice calls through pma-voice, group texts, photos
++ Chirp, Prism & Sparks — socials with real accounts
++ email on a name@ls.mail address, inbox and sent
++ the actual GTA phone camera — aim, flip, zoom, focus
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-phone)
+
+</td>
+<td width="50%" valign="top">
+
+### [`XS-Dispatch`](https://github.com/XyraL/XS-Dispatch) 📻
+**Police, EMS and fire on one board.**
+```diff
++ three departments, own jobs, colours, statuses, blips
++ vehicle-aware units — foot, patrol, bike, boat, heli, plane
++ P1/P2/P3 with live timers, GPS routing, responding units
++ provider API — your phone and MDT plug straight in
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+![Beta](https://img.shields.io/badge/-beta-05070D?logo=testcafe&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-dispatch)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`XS-Trucking`](https://github.com/XyraL/XS-Trucking) 🚛
+**Haul freight, own your rig, run a company.**
+```diff
++ live route map with pins, distance, ETA and tracking
++ single and multi-stop contracts plus bonus loads
++ truck and trailer ownership, upgrades, paint, repair
++ fuel burn, refuelling, tyre, brake and oil wear
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-trucking)
+
+</td>
+<td width="50%" valign="top">
+
+### [`XS-Robberies`](https://github.com/XyraL/XS-Robberies) 💰
+**A robbery creator, not a robbery script.**
+```diff
++ build every stage in a free camera, nothing hand-configured
++ stage requirements form a graph — branch, split, alternatives
++ twelve minigames, plus ox_lib, ps-ui, memorygame, howdy
++ stamp one design onto many sites with per-site overrides
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+![Beta](https://img.shields.io/badge/-beta-05070D?logo=testcafe&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-robberies)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`XS-AirDrops`](https://github.com/XyraL/XS-AirDrops) 📦
+**Contested supply drops, announced server-wide.**
+```diff
++ countdown, search area and a cargo plane that flies it in
++ cracking it holds you still — contested, not a footrace
++ loot rolled server-side on open, in tiers you build in game
++ a real inventory container, not a fake reward popup
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-airdrops)
+
+</td>
+<td width="50%" valign="top">
+
+### [`XS-Paintball`](https://github.com/XyraL/XS-Paintball) 🎯
+**Eight modes, wagers, in-game map builder.**
+```diff
++ TDM, FFA, CTF, Domination, Kill Confirmed, Gun Game + 2
++ build arenas out of props — live the moment you save
++ up to eight lobbies, each in its own routing bucket
++ killstreaks and player-to-player wagers
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+![Beta](https://img.shields.io/badge/-beta-05070D?logo=testcafe&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-paintball)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`XS-MultiCharacter`](https://github.com/XyraL/XS-MultiCharacter) 🎭
+**Character select as an identity system.**
+```diff
++ saved appearance previews across the three clothing resources
++ identity dossier — framework fields plus metadata
++ character animations with job-specific presets
++ cinematic spawn cameras and categorised locations
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-multicharacter)
+
+</td>
+<td width="50%" valign="top">
+
+### [`XS-RestaurantCreator`](https://github.com/XyraL/XS-RestaurantCreator) 🍽️
+**Venues your players build, own and run.**
+```diff
++ place counter, kitchen, storage and doors in a free camera
++ restaurants, bars, cafes and food trucks, each with defaults
++ menus written per venue and priced by the owner
++ staff cook from what they are carrying, not thin air
+```
+![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
+![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
+![Beta](https://img.shields.io/badge/-beta-05070D?logo=testcafe&logoColor=FF2A6D)
+[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-restaurantcreator)
 
 </td>
 </tr>
@@ -105,7 +246,6 @@ building  = "XyraLScripts — free QBox / QBCore resources"
 
 ```yaml
 XS-Drugs:      [ ▓▓▓▓░░░░░░ ]  standalone weed empire · supply chain · territory
-XS-Paintball:  [ ▓▓▓▓▓▓▓▓▓░ ]  arena modes · in-game map builder · lobbies
 XS-NPCs:       [ ▓▓▓▓▓▓▓▓▓░ ]  AI citizens you can actually talk to
 ```
 
@@ -141,6 +281,13 @@ XS-NPCs:       [ ▓▓▓▓▓▓▓▓▓░ ]  AI citizens you can actually 
 
 <table align="center">
 <tr>
+<td align="center">
+
+`> scripts`
+[**xyralscripts.dev**](https://xyralscripts.dev)
+`docs · demos · downloads`
+
+</td>
 <td align="center">
 
 `> connect`
