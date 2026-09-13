@@ -307,7 +307,7 @@ XS-NPCs:       [ ▓▓▓▓▓▓▓▓▓░ ]  AI citizens you can actually 
 ## `0x06` &nbsp;&#9608;&#9608;&#9608;&nbsp; TELEMETRY
 
 <p align="center">
-  <img alt="telemetry" src="https://raw.githubusercontent.com/XyraL/XyraL/output/telemetry.svg" width="100%" />
+  <img alt="telemetry" src="https://raw.githubusercontent.com/XyraL/XyraL/main/telemetry.svg" width="100%" />
 </p>
 
 <p align="center">
