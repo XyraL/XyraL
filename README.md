@@ -39,7 +39,46 @@ site      = "xyralscripts.dev"
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-## `0x02` &nbsp;&#9608;&#9608;&#9608;&nbsp; ARSENAL &nbsp;<sub>`// live repositories`</sub>
+## `0x02` &nbsp;&#9608;&#9608;&#9608;&nbsp; THE SITE &nbsp;<sub>`// xyralscripts.dev`</sub>
+
+<p align="center">
+  <a href="https://xyralscripts.dev"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/site-card.png" width="88%" alt="xyralscripts.dev — free FiveM scripts for Qbox and QBCore" /></a>
+</p>
+
+<p align="center">
+  <a href="https://xyralscripts.dev"><img src="https://img.shields.io/badge/browse%20the%20scripts-05070D?style=for-the-badge&logo=firefoxbrowser&logoColor=00F5D4&labelColor=05070D" /></a>
+  <a href="https://xyralscripts.dev/docs"><img src="https://img.shields.io/badge/setup%20guides-05070D?style=for-the-badge&logo=readthedocs&logoColor=00F5D4&labelColor=05070D" /></a>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+`> every script`
+**docs & screenshots**
+`install, config, exports`
+
+</td>
+<td align="center" width="33%">
+
+`> playable`
+**live UI demos**
+`the real NUI, in your browser`
+
+</td>
+<td align="center" width="33%">
+
+`> no paywall`
+**free downloads**
+`source-available, every one`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
+
+## `0x03` &nbsp;&#9608;&#9608;&#9608;&nbsp; ARSENAL &nbsp;<sub>`// live repositories`</sub>
 
 <table>
 <tr>
@@ -242,7 +281,7 @@ site      = "xyralscripts.dev"
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-## `0x03` &nbsp;&#9608;&#9608;&#9608;&nbsp; PIPELINE &nbsp;<sub>`// decrypting — in development`</sub>
+## `0x04` &nbsp;&#9608;&#9608;&#9608;&nbsp; PIPELINE &nbsp;<sub>`// decrypting — in development`</sub>
 
 ```yaml
 XS-Drugs:      [ ▓▓▓▓░░░░░░ ]  standalone weed empire · supply chain · territory
@@ -251,7 +290,7 @@ XS-NPCs:       [ ▓▓▓▓▓▓▓▓▓░ ]  AI citizens you can actually 
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-## `0x04` &nbsp;&#9608;&#9608;&#9608;&nbsp; TOOLCHAIN
+## `0x05` &nbsp;&#9608;&#9608;&#9608;&nbsp; TOOLCHAIN
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,html,css,sql,git,github,vscode&theme=dark" />
@@ -265,7 +304,7 @@ XS-NPCs:       [ ▓▓▓▓▓▓▓▓▓░ ]  AI citizens you can actually 
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-## `0x05` &nbsp;&#9608;&#9608;&#9608;&nbsp; TELEMETRY
+## `0x06` &nbsp;&#9608;&#9608;&#9608;&nbsp; TELEMETRY
 
 <p align="center">
   <img alt="telemetry" src="https://raw.githubusercontent.com/XyraL/XyraL/output/telemetry.svg" width="100%" />
@@ -277,7 +316,7 @@ XS-NPCs:       [ ▓▓▓▓▓▓▓▓▓░ ]  AI citizens you can actually 
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
 
-## `0x06` &nbsp;&#9608;&#9608;&#9608;&nbsp; SIGNAL
+## `0x07` &nbsp;&#9608;&#9608;&#9608;&nbsp; SIGNAL
 
 <table align="center">
 <tr>
