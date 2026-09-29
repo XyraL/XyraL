@@ -260,22 +260,6 @@ site      = "xyralscripts.dev"
 [![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-multicharacter)
 
 </td>
-<td width="50%" valign="top">
-
-### [`XS-RestaurantCreator`](https://github.com/XyraL/XS-RestaurantCreator) 🍽️
-**Venues your players build, own and run.**
-```diff
-+ place counter, kitchen, storage and doors in a free camera
-+ restaurants, bars, cafes and food trucks, each with defaults
-+ menus written per venue and priced by the owner
-+ staff cook from what they are carrying, not thin air
-```
-![Lua](https://img.shields.io/badge/-Lua-05070D?logo=lua&logoColor=00F5D4)
-![NUI](https://img.shields.io/badge/-NUI-05070D?logo=javascript&logoColor=FF2A6D)
-![Beta](https://img.shields.io/badge/-beta-05070D?logo=testcafe&logoColor=FF2A6D)
-[![Docs](https://img.shields.io/badge/-docs%20%26%20download-05070D?logo=firefoxbrowser&logoColor=00F5D4)](https://xyralscripts.dev/xs-restaurantcreator)
-
-</td>
 </tr>
 </table>
 
@@ -285,7 +269,6 @@ site      = "xyralscripts.dev"
 
 ```yaml
 XS-Drugs:      [ ▓▓▓▓░░░░░░ ]  standalone weed empire · supply chain · territory
-XS-NPCs:       [ ▓▓▓▓▓▓▓▓▓░ ]  AI citizens you can actually talk to
 ```
 
 <p align="center"><img src="https://raw.githubusercontent.com/XyraL/XyraL/main/assets/divider.svg" width="80%" /></p>
